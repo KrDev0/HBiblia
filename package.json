@@ -1,52 +1,67 @@
 [
- {
+  {
     "Nombre": "Biblia de Jerusalén Primera Edición",
     "Tamaño": "11.0 MB (11,554,816 bytes)",
     "Enlace": "https://github.com/KrDev0/HBiblia/raw/main/BJPE"
   },
- {
+  {
     "Nombre": "Biblia de Jerusalén Segunda Edición",
     "Tamaño": "11.0 MB (11,567,104 bytes)",
     "Enlace": "https://github.com/KrDev0/HBiblia/raw/main/BJSE"
   },
- {
+  {
     "Nombre": "Biblia de Jerusalén Tercera Edición",
     "Tamaño": "10.9 MB (11,514,880 bytes)",
     "Enlace": "https://github.com/KrDev0/HBiblia/raw/main/BJTE"
   },
- {
+  {
     "Nombre": "Biblia Castilian (2003)",
     "Tamaño": "11.3 MB (11,859,968 bytes)",
     "Enlace": "https://github.com/KrDev0/HBiblia/raw/main/BCTLL"
   },
- {
+  {
     "Nombre": "Biblia al Día",
     "Tamaño": "9.93 MB (10,415,104 bytes)",
     "Enlace": "https://github.com/KrDev0/HBiblia/raw/main/BAD"
   },
- {
+  {
     "Nombre": "Biblia en Lenguaje Sencillo",
     "Tamaño": "11.3 MB (11,859,968 bytes)",
     "Enlace": "https://github.com/KrDev0/HBiblia/raw/main/BLS"
   },
- {
+  {
     "Nombre": "La Biblia Latinoamericana",
     "Tamaño": "11.4 MB (12,001,280 bytes)",
     "Enlace": "https://github.com/KrDev0/HBiblia/raw/main/BLA"
   },
- {
+  {
     "Nombre": "La Nueva Reina Valera 2000 (Adventista)",
     "Tamaño": "10.0 MB (10,487,808 bytes)",
     "Enlace": "https://github.com/KrDev0/HBiblia/raw/main/NRV2000"
   },
- {
+  {
     "Nombre": "La Biblia Nacar Colunga",
     "Tamaño": "10.8 MB (11,363,328 bytes)",
     "Enlace": "https://github.com/KrDev0/HBiblia/raw/main/BNC"
   },
- {
+  {
     "Nombre": "La Santa Biblia Martin Nieto",
     "Tamaño": "11.2 MB (11,790,336 bytes)",
     "Enlace": "https://github.com/KrDev0/HBiblia/raw/main/BMN"
+  },
+  {
+    "Nombre": "Biblia Dios Habla Hoy en Castellano Peninsular (2002)",
+    "Tamaño": "12,0 MB (12.660.736 bytes)",
+    "Enlace": "https://github.com/KrDev0/HBiblia/raw/main/BDHHCP2002"
+  },
+  {
+    "Nombre": "Biblia Dios Habla Hoy en Castellano Peninsular con Deuterocanónicos (2002)",
+    "Tamaño": "13,5 MB (14.221.312 bytes)",
+    "Enlace": "https://github.com/KrDev0/HBiblia/raw/main/BDHHCPD2002"
+  },
+  {
+    "Nombre": "Biblia Dios Habla Hoy Latinoamericana con Deuterocanónicos (2002)",
+    "Tamaño": "13,5 MB (14.221.312 bytes)",
+    "Enlace": "https://github.com/KrDev0/HBiblia/raw/main/BDHHLD2002"
   }
 ]
